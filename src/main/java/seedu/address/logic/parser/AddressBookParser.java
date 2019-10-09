@@ -65,6 +65,7 @@ public class AddressBookParser {
         /*
         case DeletePolicyCommand.COMMAND_WORD:
             return new DeletePolicyCommandParser().parse(arguments);
+
         case AssignPolicyCommand.COMMAND_WORD:
             return new AssignPolicyCommandParser().parse(arguments);
 
